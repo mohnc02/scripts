@@ -1,0 +1,6 @@
+{
+    "GPT3_KEY":"955c955cb7be4ca9a6de899391c28c64",
+    "ENDPOINT":"https://demogpt3.openai.azure.com/",
+    "DEPLOYMENT_NAME":"gpt3test",
+    "DEEPL_KEY":"b053f4dd-3382-3743-413e-4bbca8667a43"
+}
